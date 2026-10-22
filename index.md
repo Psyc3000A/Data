@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# Data
+# Data repo: Main Page
 
 Datasets, supporting files, and resources for PSYC 3000.
+[Open the Statistics Lab](https://github.com/Psyc3000A/Data)
 
 ## Student Statistics Lab
 
