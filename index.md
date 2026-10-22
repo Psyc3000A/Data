@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Data
 
 Datasets, supporting files, and resources for PSYC 3000.
