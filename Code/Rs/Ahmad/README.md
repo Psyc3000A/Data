@@ -1,7 +1,7 @@
 R output #1 Chapter 14
 https://psyc3000a.github.io/Data/Code/Rs/Ahmad/
 Py version:
-```{python}
+```python
 np.random.seed(42)
 
 df = pd.DataFrame({"x": [3, 5, 8, 10, 12],
